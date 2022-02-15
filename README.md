@@ -23,7 +23,6 @@ Or you can read the paper for more explanation
 # Example
 ## Blur Image
 <br/>
-<br/>
 <img src="https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1cnxlbnwwfHwwfHw%3D&w=1000&q=80" width="500">
 <br/>
 Result
@@ -31,7 +30,6 @@ Result
 <img src="Screenshot (964).png" width="500">
 
 ## 4K Image
-<br/>
 <br/>
 <img src="https://www.pixelstalk.net/wp-content/uploads/2016/07/4k-Images-Free-Download.jpg" width="500">
 <br/>
