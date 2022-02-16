@@ -170,4 +170,4 @@ def blurMetric(imagePath):
 
 
 
-print(blurMetric("C:/Users/affaa/Downloads/img4.bmp"))
+print(blurMetric("Put your image path"))
