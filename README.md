@@ -11,12 +11,11 @@ created by
 This function only need your image path, or you can change inside the function if you want to customize.
 
 ### Short explanation about how this algorithm works
-- The code will open your image with CV2 library
+- This code will open your image with CV2 library
 - Then image will convert to gray with RGB2GRAY Matlab format ITU-R
 - Blur the image with GaussianBlur then edge detection with sobel filter
 - Check pixel by pixel in column for horizontal blur analysis and row for vertical blur analysis
 - Get total blur by adding horizontal blur with vertical blur then divided by 2
-- Use if else for minus value is assign to 0 and max value is 100, round the value then return the value
 
 Or you can read the paper for more explanation
 
